@@ -177,3 +177,5 @@ cython_debug/
 *.avi
 *.mkv
 *.webm
+media/
+api-key
